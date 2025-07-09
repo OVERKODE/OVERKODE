@@ -1,18 +1,27 @@
-## Hi there 👋
+<h1 align=center>std::cout << "Hey! I'm Overkode ;)" << std::endl;</h1>
 
-<!--
-**OVERKODE/OVERKODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height=10/>
 
-Here are some ideas to get you started:
+<h3 align=center>My skills</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# My activity on GitHub
+<div align=center>
+  <img src='https://skillicons.dev/icons?i=pycharm' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=py' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=linux' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=cpp' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=cs' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=vscode' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=visualstudio' height=40 />
+  <img width=6 />
+</div>
+
+<img height=10/>
+
+<h3 align=center>My activity</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OVERKODE&show_icons=true&theme=gotham" alt="OVERKODE" />
