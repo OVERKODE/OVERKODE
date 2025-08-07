@@ -12,13 +12,18 @@
   <img src='https://skillicons.dev/icons?i=linux' height=40 />
   <img width=6 />
   <img src='https://skillicons.dev/icons?i=cpp' height=40 />
-  <img width=6 />
+</div>
+
+###
+  
+<div align=center>
   <img src='https://skillicons.dev/icons?i=cs' height=40 />
   <img width=6 />
   <img src='https://skillicons.dev/icons?i=vscode' height=40 />
   <img width=6 />
   <img src='https://skillicons.dev/icons?i=visualstudio' height=40 />
   <img width=6 />
+  <img src='https://skillicons.dev/icons?i=godot' height=40 />
 </div>
 
 <img height=10/>
